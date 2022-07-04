@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyProject</string>
+    <string name="error_title">An error occurred.</string>
+    <string name="error_message">Please try again by clicking PLAY button.</string>
+    <string name="high_score">High Score</string>
+    <string name="question_counter">Question %d/50</string>
+    <string name="question_counter_initial">Question 0/50</string>
+    <string name="play">Play</string>
+    <string name="game_over">Game Over</string>
+    <string name="game_won">Congratulations!!!</string>
+    <string name="your_result">YOUR SCORE\n\ncorrect:  %1$d\nincorrect:  %2$d</string>
 </resources>
